@@ -299,8 +299,7 @@ main .main-content__cardsblock__card__content__description {
   align-items: stretch;
   justify-content: flex-start;
   flex-direction: column;
-  -moz-column-gap: 8px;
-       column-gap: 8px;
+  row-gap: 8px;
 }
 main .main-content__cardsblock__card__content__description h4 {
   font-size: 14px;

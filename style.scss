@@ -135,7 +135,7 @@ main {
                 }
 
                 &__description {
-                    @include flex($fDirection: column, $cGap: 8);
+                    @include flex($fDirection: column, $rGap: 8);
 
                     & h4 {
                         @include font(14, 600, 16, none, #111517);
